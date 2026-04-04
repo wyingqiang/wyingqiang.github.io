@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yingqiang Wang @ SJTU"
-title_separator          : "-"
+title                    : "Yingqiang Wang"
+title_separator          : ""
 name                     : &name "Yingqiang Wang"
-description              : &description "personal description"
+description              : &description "Y. Wang"
 url                      : https://wyingqiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wyingqiang/wyingqiang.github.io"
