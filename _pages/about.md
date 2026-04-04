@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. and Ph.D. degrees in Ocean Technology and Engineering from Zhejiang University, Hangzhou, China, in 2019 and 2024, respectively, under the supervision of Prof. Ying Chen and Prof. S. H. Huang. From 2022 to 2023, I was a visiting Ph.D. student at the Institute of Robotics and Intelligent Systems, ETH Zürich, Zürich, Switzerland, under the supervision of Prof. Daniel Ahmed.  
-I am currently a Postdoctoral Research Fellow with the School of Oceanography, Shanghai Jiao Tong University, Shanghai, China. In autumn 2026, I will join the School of Oceanography at Shanghai Jiao Tong University as a tenure-track Assistant Professor.  
+I received the B.Eng. and PhD degrees in ocean engineering from Zhejiang University, China, in 2019 and 2024, respectively, under the supervision of Prof. Ying Chen and Prof. S. H. Huang. From 2022 to 2023, I was a visiting PhD student at the Institute of Robotics and Intelligent Systems, ETH Zürich, Switzerland, under the supervision of Prof. Daniel Ahmed.  
+I am currently a Postdoc Research Fellow at the School of Oceanography, Shanghai Jiao Tong University (SJTU), China. In autumn 2026, I will join the School of Oceanography at SJTU as a tenure-track Assistant Professor.  
 My research focuses on multimodal acoustic sensing, positioning, and navigation techniques for underwater intelligent systems, including marine robotics, with applications in deep-sea exploration.  
 
 Contact
