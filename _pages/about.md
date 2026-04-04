@@ -17,9 +17,9 @@ Email: wyingqiang@sjtu.edu.cn
 
 Education
 ======
-Nov 2022 – Nov 2023, Joint Ph.D. in Acoustics and Robotics, ETH Zürich, Switzerland  
-Sep 2019 – Sep 2024, Ph.D. in Ocean Technology, Zhejiang University, China  
-Sep 2015 – Jul 2019, B.Eng. in Ocean Engineering, Zhejiang University, China  
+2022 – 2023,  Joint Ph.D. in Acoustics and Robotics,  ETH Zürich,  Switzerland  
+2019 – 2024,  Ph.D. in Ocean Technology,  Zhejiang University,  China  
+2015 – 2019,  B.Eng. in Ocean Engineering,  Zhejiang University,  China  
 
 Research Interests
 ======
