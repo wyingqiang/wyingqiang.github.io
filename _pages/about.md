@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,15 +11,13 @@ I received the B.Eng. and Ph.D. degrees in Ocean Technology and Engineering from
 I am currently a Postdoctoral Research Fellow with the School of Oceanography, Shanghai Jiao Tong University, Shanghai, China. In autumn 2026, I will join the School of Oceanography at Shanghai Jiao Tong University as a tenure-track Assistant Professor.  
 My research focuses on multimodal acoustic sensing, positioning, and navigation techniques for underwater intelligent systems, including marine robotics, with applications in deep-sea exploration.  
 
-Contact Info
+Contact
 ======
 Email: wyingqiang@sjtu.edu.cn  
 
-Education
+NEWS
 ======
-2022 – 2023,  Joint Ph.D. in Acoustics and Robotics,  ETH Zürich,  Switzerland  
-2019 – 2024,  Ph.D. in Ocean Technology,  Zhejiang University,  China  
-2015 – 2019,  B.Eng. in Ocean Engineering,  Zhejiang University,  China  
+Apr 04, 2026, The paper on flexible acoustic sensing published in *Nature Electronics* has been recognized as an ESI Highly Cited Paper!  
 
 Research Interests
 ======
